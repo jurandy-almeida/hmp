@@ -5,9 +5,7 @@
 In [ICIP, 2011](https://doi.org/10.1109/ICIP.2011.6116516). 
 [[Project Page]](https://gibis.unifesp.br/jurandy/projects/hmp/)
 
-<div align="center">
-  <img src="figs/hmp.png" width="800px" />
-</div>
+![HMP](figs/hmp.png)
 
 ## Overview
 This is a reimplementation of Histograms of Motion Patterns (HMP) in [Python](https://www.python.org/).
